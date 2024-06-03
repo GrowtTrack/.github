@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="logo_png.png" width="200">
+    <img src="https://github.com/GrowtTrack/.github/blob/main/logo_png.png" width="200">
     <br></br>
 </div>
 
