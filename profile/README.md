@@ -1,4 +1,7 @@
-<img src="logo_png.png">
+<div align="center">
+    <img src="logo_png.png" width="200">
+    <br></br>
+</div>
 
 <h1 align="center" class="heading-element" dir="auto">Team C241-PS067 // Growth Track 📈</h1>
 
