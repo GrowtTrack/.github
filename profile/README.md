@@ -9,12 +9,13 @@
 
 
 <h1 class="heading-element" dir="auto">📝 Project Overview</h1>
-<p align="justify">...</p>
+<p align="justify">Our project is an application that can predict whether a child's condition is stunted based on certain parameters, such as age, height, weight, etc. This application aims to help Indonesian people face the problem of stunting. Not only that, we also provide a feature to provide several suggestions for dealing with children who are stunted.</p>
 
 <h1 class="heading-element" dir="auto">📌 Why it Matters?</h1>
-<p align="justify">...</p>
+<p align="justify">Based on the number of stunted children in Indonesia, in 2023 the stunting prevalence will reach 21.5%, this means that around one in five children under five in Indonesia will experience stunting. Therefore, we intend to create this application to help reduce the prevalence of stunting in Indonesia and help prevent stunting problems.</p>
 
 <h1 class="heading-element" dir="auto">👥 Meet Our Team</h1>
+<p align="justify">As the saying goes, <strong>"If you don't know, you won't love"</strong>. Let us introduce you to the masterminds behind this innovative project. Each team member brings unique skills, unwavering dedication, and a shared passion to make a real impact.</p>
 <table>
     <thead>
         <tr>
@@ -85,3 +86,34 @@
         </tr>
     </tbody>
 </table>
+
+<h1 class="heading-element" dir="auto">🖇️ Project Branches</h1>
+<p align="justify">We've divided our project into distinct branches to ensure smooth development and organization. Here's a glimpse into each branch:</p>
+
+<strong>Machine Learning:</strong>
+<ul>
+    <li>Verify user input using classification.</li>
+    <li>Predicting the condition of children whether they are stunting or not using TensorFlow.</li>
+    <li>Recommendation system for handling stunting that occurs in children.</li>
+</ul>
+
+<strong>Mobile Development:</strong>
+<ul>
+    <li>Figma for creating Design System and UI/UX.</li>
+    <li>The team has to use Kotlin and Android Studio to create the Android App.</li>
+    <li>Retrofit for call API.</li>
+</ul>
+
+<strong>Cloud Computing:</strong>
+<ul>
+    <li>Providing back-end services to support the capstone project development.</li>
+    <li>Managing roles by using Google Cloud IAM Service.</li>
+    <li>Inserting and managing databases used for the capstone project.</li>
+    <li>Testing the stability and integrity of the back-end code infrastructure using Postman.</li>
+</ul>
+
+<h1 class="heading-element" dir="auto">📢 Get Involved</h1>
+<p align="justify">We welcome collaboration and contributions from the community! Whether you're a developer, a domain expert, or simply interested in our projects, we'd love to hear from you. Join us in our mission to tackle stunting in our country!</p>
+
+<h1 class="heading-element" dir="auto">☎️ Contact Us</h1>
+<p align="justify">...</p>
