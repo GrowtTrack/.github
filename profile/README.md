@@ -33,56 +33,56 @@
             <td>Muhammad Faris Akbar</td>
             <td>M179D4KY3291</td>
             <td>Machine Learning</td>
-            <td><a href="">Muhammad Faris Akbar</a></td>
-            <td><a href="">Muhammad Faris Akbar</a></td>
+            <td><a href="https://github.com/ArmFriiz">Muhammad Faris Akbar</a></td>
+            <td><a href="https://www.linkedin.com/in/m-faris-akbar-">Muhammad Faris Akbar</a></td>
         </tr>
         <tr>
             <td>2.</td>
             <td>Adjie Patrian Khalis</td>
             <td>M443D4KY1997</td>
             <td>Machine Learning</td>
-            <td><a href="">Adjie Patrian Khalis</a></td>
-            <td><a href="">Adjie Patrian Khalis</a></td>
+            <td><a href="https://github.com/AdjiePatrian">Adjie Patrian Khalis</a></td>
+            <td><a href="http://www.linkedin.com/in/adjie-patrian-khalish">Adjie Patrian Khalis</a></td>
         </tr>
         <tr>
             <td>3.</td>
             <td>Salwa Madihah Syahnevi</td>
             <td>M308D4KX2723</td>
             <td>Machine Learning</td>
-            <td><a href="">Salwa Madihah Syahnevi</a></td>
-            <td><a href="">Salwa Madihah Syahnevi</a></td>
+            <td><a href="https://github.com/salwaa1212">Salwa Madihah Syahnevi</a></td>
+            <td><a href="https://www.linkedin.com/in/salwamadihah/">Salwa Madihah Syahnevi</a></td>
         </tr>
         <tr>
             <td>4.</td>
             <td>Reza Pahlevi</td>
             <td>C308D4KY1018</td>
             <td>Cloud Computing</td>
-            <td><a href="">Reza Pahlevi</a></td>
-            <td><a href="">Reza Pahlevi</a></td>
+            <td><a href="https://github.com/BangkitReza">Reza Pahlevi</a></td>
+            <td><a href="https://www.linkedin.com/in/reza-pahlevi-44149a277/">Reza Pahlevi</a></td>
         </tr>
         <tr>
             <td>5.</td>
             <td>Hafidz Nurudien</td>
             <td>C179d4ky1310</td>
             <td>Cloud Computing</td>
-            <td><a href="">Hafidz Nurudien</a></td>
-            <td><a href="">Hafidz Nurudien</a></td>
+            <td><a href="https://github.com/hafidzNurudienn">Hafidz Nurudien</a></td>
+            <td><a href="https://www.linkedin.com/in/hafidz-nur/">Hafidz Nurudien</a></td>
         </tr>
         <tr>
             <td>6.</td>
             <td>Yasir Khoirul Huda</td>
             <td>A179D4KY4110</td>
             <td>Mobile Development</td>
-            <td><a href="">Yasir Khoirul Huda</a></td>
-            <td><a href="">Yasir Khoirul Huda</a></td>
+            <td><a href="https://github.com/yasirkhoirul">Yasir Khoirul Huda</a></td>
+            <td><a href="https://id.linkedin.com/in/yasir-khoirul-huda-48b4a2296">Yasir Khoirul Huda</a></td>
         </tr>
         <tr>
             <td>7.</td>
             <td>Rina Ayu Nabila</td>
             <td>A308D4KX3549</td>
             <td>Mobile Development</td>
-            <td><a href="">Rina Ayu Nabila</a></td>
-            <td><a href="">Rina Ayu Nabila</a></td>
+            <td><a href="https://github.com/rinaayunabila">Rina Ayu Nabila</a></td>
+            <td><a href="https://www.linkedin.com/in/rinaayunabila/">Rina Ayu Nabila</a></td>
         </tr>
     </tbody>
 </table>
