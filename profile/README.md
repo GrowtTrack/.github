@@ -115,5 +115,5 @@
 <h1 class="heading-element" dir="auto">📢 Get Involved</h1>
 <p align="justify">We welcome collaboration and contributions from the community! Whether you're a developer, a domain expert, or simply interested in our projects, we'd love to hear from you. Join us in our mission to tackle stunting in our country!</p>
 
-<h1 class="heading-element" dir="auto">☎️ Contact Us</h1>
-<p align="justify">...</p>
+<!-- <h1 class="heading-element" dir="auto">☎️ Contact Us</h1>
+<p align="justify">...</p> -->
